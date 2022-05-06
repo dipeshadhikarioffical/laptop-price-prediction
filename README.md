@@ -75,7 +75,7 @@ Heroku App link:
 
 
 ## 🛠 Skills Gained
-Python, Statistics, Data Analysis, Sklearn, Streamlit
+Python, machine learning, Statistics, Data Analysis, Sklearn, Streamlit
 
 
 ## 🔗 Follow Me On
