@@ -44,13 +44,7 @@ To deploy this project in local host follow following steps
   Copy downloaded files in your project
 ```
 ```bash
-  Then install packages (in terminal type): pip install streamlit
-```
-```bash
-   Install plotly packages (in terminal type): pip install plotly
-```
-```bash
-   Install sklearn packages (in terminal type): pip install sklearn
+ Install requirements.txt it will install all the required packages (in terminal type): pip install -r requirements.txt
 ```
 ```bash
   To run project (in terminal type) : streamlit run app.py 
